@@ -1,2 +1,3 @@
-# PBP
-Project Beer Pong
+## PBP - Project Beer Pong
+
+README.exe
